@@ -4,7 +4,7 @@ import Container from "./container/Container";
 import Logo from "./Logo";
 import LogoutBtn from "./Header/LogoutBtn";
 import Button from "./Button";
-import Input from "./input";
+import Input from "./Input";
 import Select from "./Select";
 import RTE from "./RTE";
 import PostForm from "./post-form/PostForm";
